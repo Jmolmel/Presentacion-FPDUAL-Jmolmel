@@ -19,11 +19,11 @@ Aquí se muestra una imagen que representa la estructura general del proyecto.
 En este video se explica el proceso de login y registro del usuario en el sistema.
 
 <p align="center">
-  <a href="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" target="_blank">
-    <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" alt="Login y Registro" width="600">
-  </a>
+  <video width="600" controls>
+    <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+  </video>
 </p>
-[Ver video](https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4)
 
 ---
 
@@ -32,11 +32,11 @@ En este video se explica el proceso de login y registro del usuario en el sistem
 Este video muestra cómo se gestionan y se visualizan los datos personales de los usuarios dentro del sistema.
 
 <p align="center">
-  <a href="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/datos_personales.mp4" target="_blank">
-    <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/estructura.png" alt="Datos Personales" width="600">
-  </a>
+  <video width="600" controls>
+    <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/datos_personales.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+  </video>
 </p>
-[Ver video](https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/datos_personales.mp4)
 
 ---
 
@@ -45,11 +45,11 @@ Este video muestra cómo se gestionan y se visualizan los datos personales de lo
 En este video se detallan las vistas dinámicas que se utilizan en la aplicación para mejorar la experiencia del usuario.
 
 <p align="center">
-  <a href="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/vistas_dinamicas.mp4" target="_blank">
-    <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/estructura.png" alt="Vistas Dinámicas" width="600">
-  </a>
+  <video width="600" controls>
+    <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/vistas_dinamicas.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+  </video>
 </p>
-[Ver video](https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/vistas_dinamicas.mp4)
 
 ---
 
