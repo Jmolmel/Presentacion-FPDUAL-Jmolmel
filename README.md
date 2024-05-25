@@ -18,6 +18,7 @@ Aquí se muestra una imagen que representa la estructura general del proyecto.
 
 En este video se explica el proceso de login y registro del usuario en el sistema.
 
+
 <p align="center">
   <video width="600" controls>
     <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" type="video/mp4">
