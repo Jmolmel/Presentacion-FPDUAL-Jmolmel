@@ -8,9 +8,14 @@ Bienvenido a la presentación del proyecto que hemos realizado en las prácticas
 
 Acceda a CANVA [aquí](https://www.canva.com/design/DAGGN6EK2kc/HYAimlMYs5RSJxU7h1lwqw/view?utm_content=DAGGN6EK2kc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
+
+
+---
+
 ## Estructura del Proyecto
 
 Vista general de la estructura del proyecto.
+
 
 <p align="center">
   <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/estructura.png" alt="Estructura del Proyecto" width="600">
