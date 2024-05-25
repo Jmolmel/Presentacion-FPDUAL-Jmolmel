@@ -16,7 +16,7 @@ Vista general de la estructura del proyecto.
 
 ## Login y Registro
 
-Inicio de sesión y registro.
+Se inicia sesión con un usuario inexistente, después del error se procede al registro.
 
 
 https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/3cf0a15b-b1ff-4256-8b35-dc85c3b8c805
@@ -26,7 +26,7 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/3cf0a15b
 ---
 ## Index
 
-Se muestran los distintos JPS del index.
+Se muestran los distintos JSP.
 
 
 
@@ -43,7 +43,7 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/467faf48
 
 ## Datos Personales
 
-Modificación de contraseña y email. Eliminar cuenta.
+Se modifican "Email" y "Contraseña", con la eliminación de la cuenta.
 
 
 
@@ -58,7 +58,11 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/0de7d3a0
 
 3 tipos de vista con color dinámico. Alumno/Profesor/Accenture.
 
-![vista_accenture](https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/7aedea70-5ea4-4aae-905d-cd52faf5c16a)
+
+
+https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/d56992a7-1716-47cc-894e-7d7ff444b3ee
+
+
 
 ---
 
