@@ -19,12 +19,21 @@ Aquí se muestra una imagen que representa la estructura general del proyecto.
 En este video se explica el proceso de login y registro del usuario en el sistema.
 
 
-<p align="center">
-  <video width="600" controls>
-    <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-  </video>
-</p>
+https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/3cf0a15b-b1ff-4256-8b35-dc85c3b8c805
+
+
+
+---
+## Index
+
+Este video muestra cómo se gestionan y se visualizan los datos personales de los usuarios dentro del sistema.
+
+
+
+https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/95605e07-0d75-4d9e-b875-46827d9d0673
+
+
+
 
 ---
 
@@ -32,12 +41,7 @@ En este video se explica el proceso de login y registro del usuario en el sistem
 
 Este video muestra cómo se gestionan y se visualizan los datos personales de los usuarios dentro del sistema.
 
-<p align="center">
-  <video width="600" controls>
-    <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/datos_personales.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-  </video>
-</p>
+
 
 ---
 
