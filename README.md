@@ -30,7 +30,11 @@ Este video muestra cómo se gestionan y se visualizan los datos personales de lo
 
 
 
-https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/95605e07-0d75-4d9e-b875-46827d9d0673
+
+
+https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/467faf48-058f-4eec-92bd-98ed4e9cfd9a
+
+
 
 
 
@@ -43,18 +47,18 @@ Este video muestra cómo se gestionan y se visualizan los datos personales de lo
 
 
 
+https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/0de7d3a0-2453-4029-8671-93a7204e8091
+
+
+
+
 ---
 
 ## Vistas Dinámicas
 
 En este video se detallan las vistas dinámicas que se utilizan en la aplicación para mejorar la experiencia del usuario.
 
-<p align="center">
-  <video width="600" controls>
-    <source src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/vistas_dinamicas.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-  </video>
-</p>
+![vista_accenture](https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/7aedea70-5ea4-4aae-905d-cd52faf5c16a)
 
 ---
 
