@@ -3,5 +3,4 @@
 
 
 
-https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/1aa2c28d-b475-490f-81b4-a9610dc70426
 
