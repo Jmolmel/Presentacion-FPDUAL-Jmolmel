@@ -20,7 +20,7 @@ En este video se explica el proceso de login y registro del usuario en el sistem
 
 <p align="center">
   <a href="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" target="_blank">
-    <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/estructura.png" alt="Login y Registro" width="600">
+    <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4" alt="Login y Registro" width="600">
   </a>
 </p>
 [Ver video](https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/login_register.mp4)
