@@ -81,7 +81,7 @@ Ejemplo de LoginServlet y método que según email obtiene su ID en tabla creden
 Se muestra el constructor obteniendo los datos por query.
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/gerUserById.png" alt="Servlet Login" width="600">
+  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/getUserById.png" alt="Servlet Login" width="600">
 </p>
 
 ---
