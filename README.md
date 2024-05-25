@@ -1,1 +1,1 @@
-![Texto Alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fcompany%2Fcpifpalanturing&psig=AOvVaw1jCX0fhubgCDVznaJZZN6F&ust=1716736479224000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiPmfuLqYYDFQAAAAAdAAAAABAJ)
+![Texto Alternativo](https://media.licdn.com/dms/image/D4D3DAQFyzJoo01xWGg/image-scale_191_1128/0/1702662533595/cpifpalanturing_cover?e=2147483647&v=beta&t=PhtDwcPjgFDOATLdn_7eHRUflJ_h8JzQfCnWS-WkfJs)
