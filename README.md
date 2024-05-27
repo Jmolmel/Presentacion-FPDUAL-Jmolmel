@@ -80,7 +80,7 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/d56992a7
 Ejemplo de LoginServlet y método que según email obtiene su ID en tabla credentials.
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/servletlogin.png" alt="Servlet Login" width="600">
+  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/LoginServlet_captura.png" alt="Servlet Login" width="600">
 </p>
 
 ---
@@ -106,3 +106,5 @@ Base de datos creada según tutores.
 ---
 
 Espero que este README te haya sido útil para comprender los diferentes aspectos del proyecto.
+
+### GRACIAS
