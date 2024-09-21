@@ -1,6 +1,6 @@
 # Presentación Dual FP Accenture - Jose Molina
 
-Bienvenido a la presentación del proyecto que hemos realizado en las prácticas de FP-DUAL en Accenture. Este repositorio contiene varios recursos multimedia que explican diferentes aspectos del proyecto. A continuación, encontrarás los videos y las imágenes que detallan el funcionamiento y la estructura del proyecto.
+Bienvenido a la presentación del proyecto que hemos realizado en las prácticas de FP-DUAL en Accenture el primer año de curso. Este repositorio contiene varios recursos multimedia que explican diferentes aspectos del proyecto. A continuación, encontrarás los videos y las imágenes que detallan el funcionamiento y la estructura del proyecto.
 
 ---
 
